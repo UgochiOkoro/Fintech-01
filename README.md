@@ -92,3 +92,15 @@ Most fintech companies process their payments using the software of more promine
 * This service will increase the number of users and provide the company with a higher competitive edge.
 
 * The underlying technology for cryptocurrencies is blockchain.
+
+## References and citations
+  https://www.helcim.com/about-us/ 
+  
+  Helcim Review – Forbes Advisor 
+  
+  Banking Consulting Services | Accenture
+  
+  Fintech Statistics Showing an Industry on the Rise | Fortunly
+  
+  Helcim | Software Reviews & Alternatives (crozdesk.com)
+
