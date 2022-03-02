@@ -74,15 +74,15 @@ Most fintech companies process their payments using the software of more promine
     
     FastSpring	 | $35m	         | 100                 |
     
-    CSG Forte	 | $80m	         |200                  |
+    CSG Forte	 | $80m	         | 200                 |
     
     Pivotal Payments | $20m	         | 322                 |
     
-    Payment Depot    | $3.8m         |	29             |
+    Payment Depot    | $3.8m         | 29                  |
 
     Square           | $9.5bn	 | 5,500               |
 
-    Stripe	          $7.4bn         |	1,629          |
+    Stripe	          $7.4bn         |1,629                |
 
 
 ## Recommendations
