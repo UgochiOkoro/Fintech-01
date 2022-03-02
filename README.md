@@ -34,7 +34,7 @@ Most fintech companies process their payments using the software of more promine
 
     Stripe	      | $0           |2.7% to 2.9% + $0.05 to $0.30 domestic | Standard two business days: Instant payouts within 30 minutes.
 
-    Payment Depot |	$79 to $199	 |$0.07 to $0.15 + interchange           |24 to 48 hrs                                                                       |
+    Payment Depot |	$79 to $199  |$0.07 to $0.15 + interchange           |24 to 48 hrs                                                                       |
 		
 
 * Helcim uses the following software to process card payments; Cloud-based POS software, EMV card technology, and RESTful API.
@@ -68,21 +68,21 @@ Most fintech companies process their payments using the software of more promine
  |Company           | Annual Revenue |	Number of employees |
   ---------------------------------------------------------
   
-     Helcim          | $48m	          |  44                 |
+     Helcim          | $48m	         |  44                 |
     
-    FI payments      | $8m	          |  24                 |
+    FI payments      | $8m	         |  24                 |
     
-    FastSpring	     | $35m	          | 100                 |
+    FastSpring	 | $35m	         | 100                 |
     
-    CSG Forte	       | $80m	          |200                  |
+    CSG Forte	 | $80m	         |200                  |
     
-    Pivotal Payments |	$20m	        | 322                 |
+    Pivotal Payments | $20m	         | 322                 |
     
-    Payment Depot	   | $3.8m          |	29                  |
+    Payment Depot    | $3.8m         |	29             |
 
-    Square         	 | $9.5bn	        | 5,500               |
+    Square           | $9.5bn	 | 5,500               |
 
-    Stripe	         | $7.4bn         |	1,629               |
+    Stripe	          $7.4bn         |	1,629          |
 
 
 ## Recommendations
